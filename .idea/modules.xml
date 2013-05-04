@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea_modules/build-up-scala-understanding.iml" filepath="$PROJECT_DIR$/.idea_modules/build-up-scala-understanding.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea_modules/build-up-scala-understanding-build.iml" filepath="$PROJECT_DIR$/.idea_modules/build-up-scala-understanding-build.iml" />
+    </modules>
+  </component>
+</project>
+
